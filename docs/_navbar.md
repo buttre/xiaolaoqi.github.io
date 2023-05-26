@@ -1,4 +1,4 @@
-* 入门
+<!-- * 入门
 
   * [快速开始](zh-cn/quickstart.md)
   * [多页文档](zh-cn/more-pages.md)
@@ -11,7 +11,7 @@
   * [主题](zh-cn/themes.md)
   * [使用插件](zh-cn/plugins.md)
   * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+  * [代码高亮](zh-cn/language-highlight.md) -->
 
-* [:us:, :uk:](/)
-* [:cn:](/zh-cn/)
+<!-- * [:us:, :uk:](/) -->
+<!-- * [:cn:](/zh-cn/) -->
